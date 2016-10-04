@@ -1,0 +1,4 @@
+usr/bin/vapigen-test
+usr/lib/libfoo.so
+usr/share/vala/vapi/foo-1.0.vapi
+usr/share/vala/vapi/foo-1.0.deps
